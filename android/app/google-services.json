@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416528318034",
+    "project_id": "brickwall-b8bfb",
+    "storage_bucket": "brickwall-b8bfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416528318034:android:c07a892c48d74308dde98b",
+        "android_client_info": {
+          "package_name": "com.francisgonzales.brickwall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416528318034-r99tlil5hhqsvr3t1pra87donsl5s9gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpv-rHlaVaZ8yxLEddt9L-SOtGjMHLqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416528318034-r99tlil5hhqsvr3t1pra87donsl5s9gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

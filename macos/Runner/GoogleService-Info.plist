@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>416528318034-hbfangjcerdh0tie68eu2hq11jh9q0qg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.416528318034-hbfangjcerdh0tie68eu2hq11jh9q0qg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZNhMz-iUEANXGVqD66L2MsoMw0pvPRXI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>416528318034</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.francisgonzales.brickwall.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>brickwall-b8bfb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>brickwall-b8bfb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:416528318034:ios:90b367acb9c96a01dde98b</string>
+</dict>
+</plist>
